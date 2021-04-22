@@ -5,7 +5,7 @@
 import telebot
 import pygame
 
-
+#privet
 
 print("Bot  WTP started")
 bot = telebot.TeleBot('1777290579:AAGVarx5xRQ9QlPRx0L2LHyzgKMz-hDK284')
